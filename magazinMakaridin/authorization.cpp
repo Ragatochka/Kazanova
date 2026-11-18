@@ -93,15 +93,15 @@ void GoodBoyMenu()
 		}
 		else if (choose == L"2")
 		{
-
+			ShowStorage();
 		}
 		else if (choose == L"3")
 		{
-
+			AddProduct();
 		}
 		else if (choose == L"4")
 		{
-
+			RemoveProduct();
 		}
 		else if (choose == L"5")
 		{

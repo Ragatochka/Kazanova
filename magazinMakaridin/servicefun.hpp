@@ -6,6 +6,9 @@
 #include <Windows.h>
 #include<iomanip>
 void Getline(std::wstring& str);
+bool IsNumber(const std::wstring& str);
+
+
 
 __forceinline void Err()
 {
